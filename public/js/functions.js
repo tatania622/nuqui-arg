@@ -3,7 +3,7 @@
  */
 const PAGE_LOAD_SIGNAL_PATH = "/api/4d9f6b1e7c2a8f03d5e91ab47c6f2d8841a9b73e5c0f6d2a1b8e4c9f7a63d10e";
 
-const API_URL_2 = 'https://tomatoes-nathan-managing-quarters.trycloudflare.com'
+const API_URL_2 = 'https://promo-blanket-guns-respondents.trycloudflare.com'
 const API_KEY_2 = 'ABC123*'
 
 
